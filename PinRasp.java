@@ -78,6 +78,8 @@ public class PinRasp {
 				pin_g);
 	}
 
+	//methods for each number
+
 	static void n1() {
 
 		pin_b.low();
